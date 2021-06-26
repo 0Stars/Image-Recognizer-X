@@ -7,7 +7,6 @@ body
 {
   width: 80%;
   font-size: 22px;
-  font-family: 'Ubuntu', sans-serif;
 }
 #camera 
 {
@@ -19,66 +18,78 @@ body
 .name_of_objects, #result_object_name  , #result_object_accuracy
 {
   color: black;
-  font-family: 'Ubuntu', sans-serif;
 }
 
-h1 
+h1
 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
-
 
 h2
 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
 
-h3 
+h3
 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
-
 
 h4
 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
-
 
 h5
 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
-
-h6 
+h6
 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
-
-p 
+p
 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
-
-label 
+label
 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
-
-#button1
+b
 {
-  font-family: 'Ubuntu', sans-serif;
-  background-color: #00b4b4;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
 }
 
-
-#button2
+#capture_image 
 {
-  font-family: 'Ubuntu', sans-serif;
-  background-color: #987ff3;
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  background-color: white;
 }
+
+#recognize_image 
+{
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  background-color: white;
+}
+
+#camera
+{
+  border-width: 4;
+  border-radius: 8;
+}
+
+#result
+{
+  border-width: 4;
+  border-radius: 8;
+}
+
